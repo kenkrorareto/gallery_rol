@@ -1,0 +1,39 @@
+body {
+    background: linear-gradient(to right, #ffffff, #ffc0cb, #ffa500);
+    margin-top: 2em;
+}
+
+hr {
+    margin-top: 2em;
+    height: 0.25em;
+    background-color: #7aca55;
+}
+
+.centered-image {
+    text-align: center;
+    margin-top: 2em;
+    display: block;
+}
+
+h1 {
+    font-size: 3em;
+    color: #000;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 0.2em solid #000;
+}
+
+.btn {
+    background-color: #3498db;
+    font-family: 'MedievalSharp';
+    color: #fff;
+    padding: 0.25em 0.5em;
+    cursor: pointer;
+    border: none;
+    border-radius: 0.25em;
+    font-size: 4em;
+    text-decoration: none;
+}
